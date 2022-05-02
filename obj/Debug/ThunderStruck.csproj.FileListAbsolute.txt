@@ -1,0 +1,7 @@
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\bin\Debug\ThunderStruck.dll
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\bin\Debug\ThunderStruck.pdb
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\bin\Debug\ScriptHookRDRNetAPI.dll
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\obj\Debug\ThunderStruck.csproj.AssemblyReference.cache
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\obj\Debug\ThunderStruck.csproj.CoreCompileInputs.cache
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\obj\Debug\ThunderStruck.dll
+C:\Users\Eric Brewer\source\repos\ThunderStruck\ThunderStruck\obj\Debug\ThunderStruck.pdb
